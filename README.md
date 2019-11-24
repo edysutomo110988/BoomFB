@@ -1,12 +1,5 @@
+#Crack Facebook Accounts Within Seconds
+Works On All OS's Including Android(Termux | Userland..)
 
-# !!!!!!!!!!!This For Educational purposes Only!!!!!!!!
-
-
-# Remember Don't Harm People With It
-
-## Works on windows , linux , mac , termux!
-
-# Author : 
-## Benelhaj Younes
-
-# Have Fun :)
+__Author:
+r2dr0dn__
